@@ -10,12 +10,3 @@ This project showcases integration of automotive-grade embedded software with lo
 *   Local feedback through a TFT display for driver alerts and real-time visualization
 *   Remote monitoring enabled via ThingsBoard platform for cloud connectivity, data logging, and dashboards
 *   Designed for modularity, reliability, and real-time performance across hardware and software layers
-
-🧰 Tech Stack
-Component	                                Technology
-Microcontroller	                            STM32 (Cortex-M)
-IDE	                                        STM32CubeIDE
-RTOS	                                    FreeRTOS
-Communication Protocol	                    CAN bus
-Visualization	                            TFT display + Cloud
-Languages	                                Embedded C
